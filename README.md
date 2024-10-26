@@ -7,7 +7,7 @@ Welcome to the Factored Employee Management System! This application allows you 
 2. [Setup Instructions](#setup-instructions)
 3. [Using the Application](#using-the-application)
 4. [Stopping the Application](#stopping-the-application)
-5. [Technical Details (optional)](#technical-details-optional)
+5. [Technical Details](#technical-details)
 6. [Contact](#contact)
 
 ---
