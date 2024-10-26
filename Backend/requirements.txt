@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+SQLAlchemy
+mysql-connector-python
+passlib[bcrypt]
+pydantic
+sqlalchemy-utils
+bcrypt==3.2.2
